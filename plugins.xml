@@ -12,11 +12,10 @@
             <homepage> 
               <![CDATA[https://github.com/mhizca/QGIS_plugin]]> 
             </homepage> 
-            <file_name>MyPlugin.0.1.0.zip</file_name> 
-            <icon>https://github.com/GeospatialPython/
-            Learn/raw/master/icon_227.png</icon> 
+            <file_name>PS_Toolbox_Plugin.zip</file_name> 
+            <icon>https://github.com/mhizca/QGIS_plugin/raw/main/LogoNhazca_265x149.png</icon> 
             <author_name><![CDATA[Michele Gaeta and Santiago Giraldo (NHAZCA)]]></author_name> 
-            <download_url>https://github.com/mhizca/QGIS_plugin/blob/main/PS_Toolbox_Plugin.zip</download_url> 
+            <download_url>https://github.com/mhizca/QGIS_plugin/raw/main/PS_Toolbox_Plugin.zip</download_url> 
             <uploaded_by><![CDATA[Michele Gaeta]]></uploaded_by> 
             <create_date>2021-11-19T15:31:19.824333</create_date> 
             <update_date>2021-11-19T15:31:19.824333</update_date> 
