@@ -3,31 +3,31 @@
         <plugins> 
           <pyqgis_plugin name="PS Toolbox" version="0.1" plugin_id="227"> 
             <description> 
-              <![CDATA[Tool that unifies all the toolbox plugins created by Nhazca]]> 
+              <Tool that unifies all the toolbox plugins created by Nhazca> 
             </description> 
             <about></about> 
             <version>0.1</version> 
             <qgis_minimum_version>3.1</qgis_minimum_version> 
             <qgis_maximum_version>3.98</qgis_maximum_version> 
             <homepage> 
-              <![CDATA[https://github.com/mhizca/QGIS_plugin]]> 
+              <https://github.com/mhizca/QGIS_plugin> 
             </homepage> 
             <file_name>PS_Toolbox_Plugin.zip</file_name> 
             <icon>https://github.com/mhizca/QGIS_plugin/raw/main/LogoNhazca_265x149.png</icon> 
-            <author_name><![CDATA[Michele Gaeta and Santiago Giraldo (NHAZCA)]]></author_name> 
+            <author_name><Michele Gaeta and Santiago Giraldo (NHAZCA)></author_name> 
             <download_url>https://github.com/mhizca/QGIS_plugin/raw/main/PS_Toolbox_Plugin.zip</download_url> 
-            <uploaded_by><![CDATA[Michele Gaeta]]></uploaded_by> 
+            <uploaded_by><Michele Gaeta></uploaded_by> 
             <create_date>2021-11-19T15:31:19.824333</create_date> 
             <update_date>2021-11-19T15:31:19.824333</update_date> 
             <experimental>True</experimental> 
             <deprecated>False</deprecated> 
             <tracker> 
-              <![CDATA[https://github.com/mhizca/QGIS_plugin/issues]]> 
+              <https://github.com/mhizca/QGIS_plugin/issues> 
             </tracker> 
             <repository> 
-              <![CDATA[https://github.com/mhizca/QGIS_plugin/]]> 
+              <https://github.com/mhizca/QGIS_plugin/> 
             </repository> 
-            <tags><![CDATA[development,debugging,tools]]></tags> 
+            <tags><CDATA[development,debugging,tools></tags> 
             <downloads>0</downloads> 
             <average_vote>0</average_vote> 
             <rating_votes>0</rating_votes> 
