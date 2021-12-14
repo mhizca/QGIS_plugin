@@ -1,35 +1,13 @@
         <?xml version = '1.0' encoding = 'UTF-8'?> 
         <?xml-stylesheet type="text/xsl"href="" ?> 
         <plugins> 
-          <pyqgis_plugin name="PS Toolbox" version="0.1" plugin_id="227"> 
-            <description> 
-              Tool that unifies all the toolbox plugins created by Nhazca 
-            </description> 
-            <about></about> 
-            <version>0.1</version> 
-            <qgis_minimum_version>3.1</qgis_minimum_version> 
-            <qgis_maximum_version>3.98</qgis_maximum_version> 
-            <homepage> 
-              https://www.nhazca.com
-            </homepage> 
-            <file_name>PS_Toolbox_Plugin.zip</file_name> 
-            <icon>https://github.com/mhizca/QGIS_plugin/raw/main/LogoNhazca_265x149.png</icon> 
-            <author_name>Michele Gaeta and Santiago Giraldo (NHAZCA S.r.l.)</author_name> 
-            <download_url>https://github.com/mhizca/QGIS_plugin/raw/main/PS_Toolbox_Plugin.zip</download_url> 
-            <uploaded_by>Michele Gaeta</uploaded_by> 
-            <create_date>2021-11-19T15:31:19.824333</create_date> 
-            <update_date>2021-11-19T15:31:19.824333</update_date> 
-            <experimental>True</experimental> 
-            <deprecated>False</deprecated> 
-            <tracker> 
-              https://github.com/mhizca/QGIS_plugin/issues
-            </tracker> 
-            <repository> 
-              https://github.com/mhizca/QGIS_plugin/ 
-            </repository> 
-            <tags>development,debugging,tools</tags> 
-            <downloads>0</downloads> 
-            <average_vote>0</average_vote> 
-            <rating_votes>0</rating_votes> 
-          </pyqgis_plugin> 
-        </plugins> 
+          <pyqgis_plugin name="PS Toolbox" version="0.1">
+          <description>Tool that unifies all the toolbox plugins created by Nhazca </description>
+          <homepage>https://www.nhazca.com</homepage>
+            <qgis_minimum_version>3.1</qgis_minimum_version>
+          <file_name>PS_Toolbox_Plugin.zip</file_name>
+          <author_name>Michele Gaeta, Santiago Giraldo</author_name>
+          <download_url>https://github.com/mhizca/QGIS_plugin/raw/main/PS_Toolbox_Plugin.zip</download_url>
+          <experimental>true</experimental>
+          </pyqgis_plugin>
+            
