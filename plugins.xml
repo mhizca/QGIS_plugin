@@ -5,9 +5,9 @@
           <description>Tool that unifies all the toolbox plugins created by Nhazca </description>
           <homepage>https://www.nhazca.com</homepage>
             <qgis_minimum_version>3.1</qgis_minimum_version>
-          <file_name>PS_Toolbox_Plugin.zip</file_name>
+          <file_name>PSToolbox.zip</file_name>
           <author_name>Michele Gaeta, Santiago Giraldo</author_name>
-          <download_url>https://github.com/mhizca/QGIS_plugin/raw/main/PS_Toolbox_Plugin.zip</download_url>
+          <download_url>https://github.com/mhizca/QGIS_plugin/raw/main/PSToolbox.zip</download_url>
           <experimental>true</experimental>
           </pyqgis_plugin>
        </plugins> 
